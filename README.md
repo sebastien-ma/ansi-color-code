@@ -8,9 +8,9 @@
 
 Removes ANSI color codes from all the document or only the selection.
 
-\!\[feature X\]\(images/feature-remove-document.gif\)
+\!\[Remove from document\]\(images/feature-remove-document.gif\)
 
-\!\[feature X\]\(images/feature-remove-selection.png\)
+\!\[Remove from selection\]\(images/feature-remove-selection.gif\)
 
 ## Extension Settings
 
