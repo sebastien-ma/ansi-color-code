@@ -1,0 +1,10 @@
+Support basic set of 8 colors with "bright" or "bold" colors
+[30mBlack [30;1mBright Black
+[31mRed [31;1mBright Red
+[32mGreen [32;1mBright Green
+[33mYellow [33;1mBright Yellow
+[34mBlue [34;1mBright Blue
+[35mMagenta [35;1mBright Magenta
+[36mCyan [36;1mBright Cyan
+[37mWhite [37;1mBright White
+[0mReset

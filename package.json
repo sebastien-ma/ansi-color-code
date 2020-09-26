@@ -10,19 +10,14 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:ansi-color.remove",
-		"onCommand:ansi-color.view"
+		"onCommand:ansi-color-code.remove"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "ansi-color.remove",
+				"command": "ansi-color-code.remove",
 				"title": "ANSI Color Code: Remove"
-			},
-			{
-				"command": "ansi-color.view",
-				"title": "ANSI Color Code: View"
 			}
 		]
 	},
