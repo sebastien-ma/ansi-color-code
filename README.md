@@ -6,11 +6,11 @@
 
 ### Remove ANSI color codes
 
-Removes ANSI color codes from all the document or only the selection.
+Removes ANSI color codes from all the document or only the selection. (Command Palette: `ANSI Color Code: Remove`)
 
-\!\[Remove from document\]\(images/feature-remove-document.gif\)
+![Remove from document](images/feature-remove-document.gif)
 
-\!\[Remove from selection\]\(images/feature-remove-selection.gif\)
+![Remove from selection](images/feature-remove-selection.gif)
 
 ## Extension Settings
 

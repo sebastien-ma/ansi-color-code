@@ -47,5 +47,6 @@
 	},
 	"engines": {
 		"vscode": "^1.45.0"
-	}
+	},
+	"icon": "images/icon.png"
 }
