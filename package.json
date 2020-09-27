@@ -1,7 +1,7 @@
 {
 	"name": "ansi-color-code",
 	"displayName": "ANSI Color Code",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "This extension helps with the ANSI color code in your logs.",
 	"categories": [
 		"Formatters",
